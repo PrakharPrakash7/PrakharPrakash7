@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**PrakharPrakash7/PrakharPrakash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4C1D95&height=200&section=header&text=Prakhar%20Prakash&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=600&color=38B2AC&center=true&vCenter=true&width=600&lines=💻+Computer+Science+Undergraduate;🚀+Full-Stack+Developer;⚡+C++%2C+JavaScript%2FTypeScript%2C+Python;🌱+Always+Learning+New+Things" alt="Typing Animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 CS Undergrad passionate about **Full-Stack Development**  
+- 💡 Strong foundations in **C++**, **JavaScript/TypeScript**, and **Python**  
+- 🛠 Hands-on experience with **React, Node.js, Express, TailwindCSS**  
+- 🌱 Currently learning **System Design & Competitive Programming**  
+- 🎯 Open to **Software Development Internships**  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nodejs,express,tailwind,mongodb,git,github,vscode,figma&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PrakharPrakash7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrakharPrakash7&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPrakash7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PrakharPrakash7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:prakharprakash159@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prakhar-prakash-522457213/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/PrakharPrakash7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
