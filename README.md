@@ -29,11 +29,6 @@
 </div>
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrakharPrakash7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:prakharprakash159@gmail.com">
